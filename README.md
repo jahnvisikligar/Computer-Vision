@@ -9,14 +9,5 @@ Welcome to my collection of computer vision projects! This repository showcases 
 - **Object detection using VGG16**: This project showcases an object detection model leveraging the VGG16 architecture, implemented using TensorFlow and Keras. Specifically trained to detect airplanes in images, the project encompasses various stages, including data gathering, preprocessing, model construction, training, evaluation, and prediction, offering a comprehensive demonstration of the entire object detection pipeline.
 - **Signature identification using CNN**: This TensorFlow and Keras-based project implements an image classification model for detecting genuine and forged signatures. The dataset is organized into training and validation sets using ImageDataGenerator, and the convolutional neural network (CNN) architecture includes layers for feature extraction and classification. 
 
-## Technologies Used
-
-- OpenCV
-- Google Vision API
-- Roboflow
-- TensorFlow
-- Keras
-- PyTorch
-- Matplotlib
 
 Feel free to explore each project and don't hesitate to reach out if you have any questions or feedback!
