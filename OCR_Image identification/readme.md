@@ -1,0 +1,2 @@
+# P&ID with Object detection and OCR implementation
+This project focuses on implementing Optical Character Recognition (OCR) using EasyOCR to extract text from a P&ID (Piping and Instrumentation Diagram) PDF. Additionally, it incorporates symbol detection using the YOLOv8 model to accurately identify symbols within the same P&ID, offering a comprehensive solution for text and symbol extraction from engineering documents.
