@@ -9,5 +9,14 @@ Welcome to my collection of computer vision projects! This repository showcases 
 - **[PaddleOCR+GPT3.5](https://github.com/jahnvisikligar/Computer-Vision/tree/main/PaddleOCR%2BGPT3.5)**: This code leverages PaddleOCR for Optical Character Recognition (OCR) to extract text from invoice or receipt images. The extracted text is then processed using Doctran along with LangChain library that utilizes OpenAI's GPT-3.5 model. Specific properties are defined, such as merchant name, transaction amount, date, and receipt number that are extracted from the document using Doctran's `ExtractProperty` functionality.
 - **[LangChain+GPT4 Vision](https://github.com/jahnvisikligar/Computer-Vision/tree/main/LangChain%2BGPT4%20Vision)**: This approach utilizes the GPT-4 Vision model in combination with LangChain for extracting relevant information from invoice or receipt images. The code encodes the input image into base64 format and then invokes the GPT-4 Vision model to process the image. The model's response is parsed using a Pydantic model (`ImageInformation`) to extract specific details like the merchant name, transaction amount, date, and receipt/invoice number.
 
+## Technologies Used
+
+- GCP-Vertex AI
+- TensorFlow
+- Keras
+- Pytorch
+- Transformers
+- LangChain
+
 
 Feel free to explore each project and don't hesitate to reach out if you have any questions or feedback!
