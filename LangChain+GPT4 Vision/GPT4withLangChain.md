@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="ChatGPT Image Sep 28, 2026, 07_24_04 PM" src="https://github.com/user-attachments/assets/7ee07b02-790d-4fb1-9c14-c12d2d278869" />
+
+
 # GPT4 with LangChain 4 Invoice details extraction
 
 This code is designed to process images (specifically, invoices or receipts) using LangChain and the OpenAI `GPT-4 Vision` model. It takes an image file path as input, encodes the image into base64 format, and then uses the GPT-4 Vision model to extract relevant information from the image, such as the merchant name, transaction amount, date, and receipt/invoice number.
@@ -24,4 +27,4 @@ Install the required dependencies using pip:
   "Amount": "Transaction amount with currency symbol",
   "Date": "Transaction date in DD-MM-YYYY format",
   "Receipt_num": "Receipt/invoice number"
-}```
+} 
